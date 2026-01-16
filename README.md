@@ -13,8 +13,7 @@ You're one-stop for recipes, It is the best app for any type of cooking and cook
 - It is a fully responsive web application, so you can easily view it on your mobile device as well.
 
 
-## View the app (Hosted on Vercel):
-https://recipe-finder-rho-gilt.vercel.app/
+
 
 ## Tools
 - React

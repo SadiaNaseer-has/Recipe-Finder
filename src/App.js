@@ -1,6 +1,4 @@
-.hide-heading {
-     display: none;
-   }
+
 import * as React from "react";
 import Main from "./Components/Main";
 import {Provider} from "react-redux"

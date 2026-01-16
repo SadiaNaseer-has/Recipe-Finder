@@ -1,3 +1,6 @@
+.hide-heading {
+     display: none;
+   }
 import React, { useState } from "react";
 import {
   Box,

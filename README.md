@@ -1,8 +1,4 @@
-<h1>
-     <a href="https://recipe-finder-rho-gilt.vercel.app/" target="_blank">
-       Recipe Finder
-     </a>
-   </h1>
+
 ![Preview](https://github.com/Jupiter-Github/Recipe-Finder/assets/165056474/dfa3d7a2-e5be-4fae-9eff-771a32972d76)
 # Recipe Finder Web Application
 
